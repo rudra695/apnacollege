@@ -1,4 +1,4 @@
 # apnacollege
 This is my Git Repository
 <br>
-Author - Rudra Patel
+Author - Rudra (Tiger)
